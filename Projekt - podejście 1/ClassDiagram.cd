@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Blue_Dragon" Collapsed="true">
+    <Position X="8.75" Y="6.75" Width="1.5" />
+    <InheritanceLine Type="Postac" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="11.25" Y="1.062" />
+        <Point X="11.25" Y="6.458" />
+        <Point X="9.5" Y="6.458" />
+        <Point X="9.5" Y="6.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAgAAQAAAAAQAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Characters.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fire_Gigant" Collapsed="true">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAggAAAAAAAAAAACAAAAAAAAAEAA=</HashCode>
+      <FileName>Characters.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Devil" Collapsed="true">
+    <Position X="8.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAgAAAAABAAACACQAAAAAAAAAAA=</HashCode>
+      <FileName>Characters.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Earth_Elemental" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEIAAAAAEAAAAAAgAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Characters.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shield_Guardian" Collapsed="true">
+    <Position X="8.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAEAAAAAAgAAAAAAAAAIACAAAAAAAAAAAA=</HashCode>
+      <FileName>Characters.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Czarodziejka" Collapsed="true">
+    <Position X="12.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAEAAQAAAgACQALBAIAAADAEAAABAAAAAA=</HashCode>
+      <FileName>Characters.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monk" Collapsed="true">
+    <Position X="12.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAEBAAAAAgAAAAAAAAAAACAAAAAAAEAABA=</HashCode>
+      <FileName>Characters.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ranger" Collapsed="true">
+    <Position X="12.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAECAAAAAgAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Characters.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Warrior" Collapsed="true">
+    <Position X="12.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAACAAAAEAAAAAAgAAAAAAAAAAACAAQAAAIAAAAA=</HashCode>
+      <FileName>Characters.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paladin" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAIAEAAAAAAgAAAAAAEARAACEAAAAAAAAAAA=</HashCode>
+      <FileName>Characters.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="drawing" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hIcAIAKpwABhASAAEMAxCC2ECKJIKMAtkESGkNMnAAA=</HashCode>
+      <FileName>drawing.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAQAIAAACCAAAAAAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Postac" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gxQBpMAIBASMgKBAARwIVECGcpEEIQCAyAAtIIEZNgE=</HashCode>
+      <FileName>Postac.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Roll_Dice" Collapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAGBAAAEAAAUQAAAgAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Roll_Dice.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="terminal" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBQAAQBAAQAEoARBCgQAAAEQACABIQAAUgAgAAABoAE=</HashCode>
+      <FileName>terminal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turn" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAABAACAACAABSAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Turn.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
