@@ -23,7 +23,7 @@ Paladin::Paladin()
 	is_dead = false;
 	is_hasted = false;
 	is_devil_marked = false;
-	hp_lay_on_hands = 40; //8 * 5 -> piêciokrotnoœæ poziomu
+	hp_lay_on_hands = 40; //8 * 5 -> piÃªciokrotnoÅ“Ã¦ poziomu
 	is_sacred_weapon_activated = false;
 }
 
@@ -116,7 +116,7 @@ void Paladin::attack(RenderWindow &app_window, Postac *tab_characters[4], vector
 						what_happend_in_battle.push_back("Akcja zostala juz wykonana");
 						return;
 					}
-					Postac *current_character = new Warrior;
+					Postac *current_character = new Paladin;
 					Roll_Dice dice;
 					int roll;
 					if (is_sacred_weapon_activated)
